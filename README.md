@@ -6,10 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raj079850-ship-it&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -78,12 +74,6 @@ A web analytics project focused on understanding traffic patterns, performance a
 
 </tr>
 </table>
-
-<p align="center">
-  <a href="https://github.com/raj079850-ship-it?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20My%20Projects-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="View Projects"/>
-  </a>
-</p>
 
 ---
 
@@ -230,22 +220,6 @@ A web analytics project focused on understanding traffic patterns, performance a
 
 <a href="mailto:raj079851@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://rohit-kr1-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-<a href="https://lnkd.in/d8HeybsU">
-<img src="https://img.shields.io/badge/Projects-Explore%20Projects-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
-</a>
-
-<a href="https://drive.google.com/file/d/1YBC3qpwJZcid3pbC1TnfdbP80ETGRyNg/view?usp=drive_link">
-<img src="https://img.shields.io/badge/Resume-View%20Resume-2ea44f?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
 </a>
 
 </p>
